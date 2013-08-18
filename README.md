@@ -1,0 +1,4 @@
+-----Champ-pikachu
+==================
+
+pokemon showdown
